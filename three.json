@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "language": "cpp",
   "dependencies": {
-    "three-package-googletest": "master"
+    "three-package-googletest": "master",
+    "three-package-sdl2": "master"
   }
 }
