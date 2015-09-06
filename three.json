@@ -2,6 +2,7 @@
   "name": "three-cpp",
   "private": true,
   "version": "0.0.0",
+  "language": "cpp",
   "dependencies": {
     "three-package-googletest": "master"
   }
